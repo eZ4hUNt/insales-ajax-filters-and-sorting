@@ -90,3 +90,7 @@
 })(jQuery);
 ```
 
+## Сам скрипт и пример на GitHub
+https://github.com/eZ4hUNt/insales-ajax-filters-and-sorting
+
+Пример: http://streinwear.com/
