@@ -9,15 +9,15 @@
 	// Входящие параметры
 		var load_img = 'https://assets3.insales.ru/assets/1/3537/1043921/1535717477/preloder_img.png'; // Анимация загрузки
 		var filters_form = '[data-filter]'; // Форма фильтрации
-    var action = $(filters_form).attr('action'); // Урл страницы запроса (Без атрибутов)
+    		var action = $(filters_form).attr('action'); // Урл страницы запроса (Без атрибутов)
 		var sorting_select = '#sorting'; // Селект сортировки
 		var product_content = '#product-content'; // Блок контента
 		var product_content_items = '#product-content .cat-grid'; // Блок списка товаров
 		var product_content_count = '#product-content .count'; // Блок количества товаров
 		var product_content_pagination = '#product-content .advanced-pagination'; // Блок списка пагинации
 
-  // Настройки для плагина equalHeight
-    var equalHeightImg = '.equalHeightImg';
+  	// Настройки для плагина equalHeight
+    		var equalHeightImg = '.equalHeightImg';
 		var equalHeightDescr = '.equalHeightDescr';
 		var equalHeight = false;
 	  
